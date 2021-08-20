@@ -1,11 +1,8 @@
 # test program for Microverse
-testing css/html,gitflow and linters.
-
+Portfolio: setup and mobile version skeleton
 ### screenshot
 
 ![Alt text](app_screenshot.png)
-
-
 ### Prerequisites
 
 Having a working browser.
@@ -20,7 +17,7 @@ HTML/CSS.
 
 ### Getting Started
 
-this is an test website for microverse.
+this is a website for my Portfolio.
 
 To get a local example of this repository try following is steps:
 
