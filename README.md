@@ -24,6 +24,9 @@ To get a local example of this repository try following is steps:
 -Download the repository.
 
 -Click on the index.html.
+###live demo
+
+https://perses1.github.io/setup-version-skeleton/
 
 ### Authors
 
