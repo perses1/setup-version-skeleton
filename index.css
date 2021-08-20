@@ -1,11 +1,11 @@
 .menu-bar {
-  background-color: #ffffff;
+  background-color: #fff;
   display: flex;
   justify-content: space-between;
   box-sizing: border-box;
-margin: 20px 20px;
-border-right: 20px solid white;
-border-right: 20px solid white;
+  margin: 20px 20px;
+  border-right: 20px solid white;
+  border-right: 20px solid white;
 
 }
 body{
@@ -30,14 +30,14 @@ body{
 }
 .main-text{
   flex: 1;
-styleName: Header / 1;
-font-family: Poppins;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: 60px;
-letter-spacing: 0.3700000047683716px;
-align-items: center;
+  styleName: Header / 1;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.3700000047683716px;
+  align-items: center;
   justify-content: center;
   flex:1;
 }
@@ -76,7 +76,6 @@ align-items: center;
 .paddle-left{
   margin-top: 5%;
   justify-content:space-around;
-  
 }
 .middle{
 padding-left: 50%;
